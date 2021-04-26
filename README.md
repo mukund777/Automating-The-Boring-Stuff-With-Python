@@ -1,6 +1,6 @@
 # Automating-The-Boring-Stuff-With-Python
 
-This repo consists of various programs and scripts to automate tasks using python. To download the book, please click on this url : [http://automatetheboringstuffusingpython.com](https://drive.google.com/file/d/19Qn2LLWXULMjv05lAhBkf5tSb5wcgqKq/view?usp=sharing){:target="_blank" rel="noopener"}
+This repo consists of various programs and scripts to automate tasks using python. To download the book, please click on this url : [http://automatetheboringstuffusingpython.com](https://drive.google.com/file/d/19Qn2LLWXULMjv05lAhBkf5tSb5wcgqKq/view?usp=sharing){:target="_blank"}.
 
 ## Chapter - 11
 
