@@ -11,3 +11,10 @@ This chapter mainly deals with web scraping.
 Here, we attempt to find a location in google maps with the help of a simple python script. The location that we wish to find on google maps can be passed through CLI arguements or by copying to the clipboard also. 
 
 Python modules used : sys, webbrowser, pyperclip. 
+
+
+## Lesson - 2
+
+Here we attempt to download resources from the web. With the help of the requests module, we can simply provide the URL, and then view various information (like status codes, text, headers, encoding etc) on the response obtained from sending a request to the URL. 
+
+Python modules used : requests
